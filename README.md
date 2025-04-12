@@ -62,6 +62,25 @@ Steps: Cold start, invokation, shut down
 
 
 
+# KeyCloak
+
+Terms
+  - Realm
+    - way to isolate to manage set of users, role, clients and groups. Security domain that manages group of users, their creds, roles and groups. Each realm has its own dedicated settings, logging policies, user         
+      registrations, etc...
+    - when first setting up keycloack, its sets ups a default real
+  - Clients
+    - represents applications that interact with key
+  - Client Scopes
+    - set of public default or optional client roles, permission and claims that can be included in the access or id token.
+    - centralize and manage common sets of permissions and claims for clients
+  - Groups
+    - way to manage common attributes and roles mapping for a set of users
+    - simplify the management of large sets of users   
+
+
+
+
 
 
  
