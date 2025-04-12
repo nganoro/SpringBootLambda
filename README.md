@@ -1,4 +1,4 @@
-# JavaLambda
+# SpringBootLambda
 
 Steps: Cold start, invokation, shut down
 
@@ -62,13 +62,7 @@ Steps: Cold start, invokation, shut down
 
 
 
-# Springboot
-
-
-
-
 
 
  
   
-# SpringBootLambda
