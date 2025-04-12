@@ -66,8 +66,9 @@ Steps: Cold start, invokation, shut down
 
 Terms
   - Realm
-    - way to isolate to manage set of users, role, clients and groups. Security domain that manages group of users, their creds, roles and groups. Each realm has its own dedicated settings, logging policies, user         
-      registrations, etc...
+    - way to isolate to manage set of users, role, clients and groups.
+    - Security domain that manages group of users, their creds, roles and groups.
+      - Each realm has its own dedicated settings, logging policies, user registrations, etc...
     - when first setting up keycloack, its sets ups a default real
   - Clients
     - represents applications that interact with key
